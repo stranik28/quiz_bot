@@ -93,3 +93,5 @@ venv*
 
 *.csv
 *.xlsx
+
+site.png
